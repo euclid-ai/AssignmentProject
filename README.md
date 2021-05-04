@@ -11,7 +11,7 @@ Friday is an Home Assistant you will be building as part of your interview round
   * Once the user in logged in, he should be in the Appliances Tab where a list of cards with Appliance names as text on them should be displayed from an array. An example of the appliances array is given below.
   * ```[{"appliance_name": "Light", "appliance_status": "On"}, {"appliance_name": "Fan", "appliance_status": "Off"}, {"appliance_name": "Study Lamp", "appliance_status": "Off"}]```
   * Rest of the Tabs (Users Tab and Settings Tab) would have only an heading text showing which tab the user is in.
-* Users should be able to delete and update the Appliance List and when they do, the updates appliance list should be reflected in all the other users appliances tab.
+* Users should be able to delete and update the Appliance List and when they do, the updated appliance list should be reflected in all the other users appliances tab.
   * Now the App should be integrated with AWS DynamoDB in order to get the appliance list of the logged in user. The above appliances array should be retrieved from DynamoDB Table.
   * Add a Floating Action Button in the Appliances Tab Screen for adding a new appliance.
   * For deleting an appliance the user should touch and hold the respective appliance cars on the screen.
