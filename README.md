@@ -26,6 +26,6 @@ Friday is an Home Assistant you will be building as part of your interview round
 
 ### Appliance Tab Screen
 
-![picture alt](https://github.com/euclid-ai/AssignmentProject/blob/main/ApplianceTab2.png "Title is optional")
+![picture alt](https://github.com/euclid-ai/AssignmentProject/blob/main/ApplianceTab3.png "Title is optional")
 
 
