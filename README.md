@@ -26,6 +26,19 @@ Friday is an Home Assistant you will be building as part of your interview round
 
 ### Appliance Tab Screen
 
-![picture alt](https://github.com/euclid-ai/AssignmentProject/blob/main/ApplianceTab3.png "Title is optional")
+![picture alt](https://github.com/euclid-ai/AssignmentProject/blob/main/ApplianceTab3.png)
+
+### Toggle Appliance
+
+![picture alt](https://github.com/euclid-ai/AssignmentProject/blob/main/ApplianceSelected.png)
+
+### Create Appliance
+
+![picture alt](https://github.com/euclid-ai/AssignmentProject/blob/main/createAppliance.png)
+
+### Delete Appliance
+
+![picture alt](https://github.com/euclid-ai/AssignmentProject/blob/main/deleteAppliance.png)
+
 
 
