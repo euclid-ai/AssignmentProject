@@ -20,4 +20,12 @@ Friday is an Home Assistant you will be building as part of your interview round
 
 ## Application UX Design
 
+### Login Screen
+
+* You can use AWS Cognito's UI Component to render the Login and Registration Screens of the App.
+
+### Appliance Tab Screen
+
+![picture alt](http://via.placeholder.com/200x150 "Title is optional")
+
 
